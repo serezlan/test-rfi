@@ -1,3 +1,4 @@
 <?php
-echo "Hello from RFI"
+echo "Hello from RFI";
+phpinfo();
     ?>
